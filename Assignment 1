@@ -1,0 +1,3 @@
+ What do you mean by cells in an excel sheet?
+A cell is a rectangular area formed by the intersection of a column and a row. 
+Cells are identified by the Cell Name (or Reference, which is found by combining the Column Letter with the Row Number. For example the cell in Column "C" in Row "3" would be cell C3
